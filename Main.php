@@ -1,6 +1,6 @@
 <?php
 
-    namespace IdnoPlugins\Post {
+    namespace IdnoPlugins\Homepro {
 
         class Main extends \Idno\Common\Plugin {
         }
