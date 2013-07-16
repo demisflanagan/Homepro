@@ -1,15 +1,15 @@
-Idno Customization Post
-=======================
+Idno Homepage Profile Customization
+===================================
 
-This plugin customizes the homepage for Idno.
+This plugin adds a user profile to the Idno homepage.
 
 Installation
 ------------
 
 * Clone this repository into the IdnoPlugins folder of your idno installation:<br/>
-<code>git clone https://github.com/demisflanagan/Post.git</code>
+<code>git clone https://github.com/demisflanagan/Homepro.git</code>
 * Log into idno and click on Administration.
-* Click "install" next to Post.
+* Click "install" next to Homepro.
 
 License
 -------
