@@ -11,9 +11,9 @@
         <form action="/admin/homepro/" class="form-horizontal" method="post">
             <div class="control-group">
 		<p> Enter the username of the profile you would like to appear on the homepage:</p>                
-		<label class="control-label" for="name">Consumer key</label>
+		<label class="control-label" for="name">Homepro Username</label>
                 <div class="controls">
-                    <input type="text" id="name" placeholder="Homepro Username" class="span4" name="consumer_key" value="<?=htmlspecialchars(\Idno\Core\site()->config()->homepro['homepro_username'])?>" >
+                    <input type="text" id="name" placeholder="Homepro Username" class="span4" name="homepro_username" value="<?=htmlspecialchars(\Idno\Core\site()->config()->homepro['homepro_username'])?>" >
                 </div>
             </div>
             <div class="control-group">
