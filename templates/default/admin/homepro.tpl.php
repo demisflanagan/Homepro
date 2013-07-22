@@ -14,7 +14,7 @@
                     <p>Enter the username of the profile you would like to appear on the homepage.</p>
                     <p><em>Invalid usernames it will be ignored and not displayed.</em></p>
                 </div>
-            </div
+            </div>
 	    <div class="control-group">
 		<label class="control-label" for="name">Homepro Username</label>
                 <div class="controls">
