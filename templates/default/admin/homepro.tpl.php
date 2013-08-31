@@ -12,7 +12,7 @@
             <div class="control-group">
                 <div class="controls">		
                     <p>Enter the username of the profile you would like to appear on the homepage.</p>
-                    <p><em>Invalid usernames it will be ignored and not displayed.</em></p>
+                    <p><em>Invalid usernames will be ignored and not displayed.</em></p>
                 </div>
             </div>
 	    <div class="control-group">
